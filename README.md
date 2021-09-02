@@ -131,11 +131,7 @@ function equal(){
 </script>
 </head>
 <body>
-	<table border = "1">
-		<tr>
-			<td style = width:329px;padding:5px;font-size:56px;height:70px><span id="table1"></span></td>
-		</tr>
-	</table>
+
 	<table border = "1">
 		<tr>
 			<td><button onclick="seven();">7</button></td>
