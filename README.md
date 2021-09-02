@@ -5,7 +5,7 @@ button{
 	width:80px;font-weight:bold;font-size:48px;font-family:"Times New Roman";
 }
 .border{
-	width:329px;padding:5px;font-size:56px;height:70px;
+	width:160px;padding:5px;font-size:56px;height:70px;
 }
 
 </style>
