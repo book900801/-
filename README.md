@@ -2,16 +2,13 @@
 <html lang="en">
 <style type="text/css">
 button{
-	width:80px;font-weight:bold;font-size:72px;font-family:"Times New Roman";
+	width:80px;font-weight:bold;font-size:48px;font-family:"Times New Roman";
 }
 .border{
 	width:329px;padding:5px;font-size:56px;height:70px;
 }
 
 </style>
-<script type="text/javascrip">
-
-</script>
 <head>
 <meta charset="UTF-8">
 <title>計算機</title>
