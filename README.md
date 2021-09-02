@@ -5,7 +5,7 @@ button{
 	width:80px;font-weight:bold;font-size:48px;font-family:"Times New Roman";
 }
 .border{
-	width:329px;padding:5px;font-size:56px;height:70px;border = "1";
+	width:329px;padding:5px;font-size:56px;height:70px;
 }
 
 </style>
@@ -131,12 +131,12 @@ function equal(){
 </script>
 </head>
 <body>
-	<table class="border">
+	<table border = "1">
 		<tr>
-			<td><span id="table1"></span></td>
+			<td class="border"><span id="table1"></span></td>
 		</tr>
 	</table>
-	<table class="border">
+	<table border = "1">
 		<tr>
 			<td><button onclick="seven();">7</button></td>
 			<td><button onclick="eight();">8</button></td>
