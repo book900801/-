@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <style type="text/css">
 button{
 	width:80px;font-weight:bold;font-size:48px;font-family:"Times New Roman";
